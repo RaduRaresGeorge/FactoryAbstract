@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="finishing">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/app/ApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/buttons/MacOSButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/buttons/WindowsButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/CheckBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/MacOSCheckBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/WindowsCheckBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factories/GUIFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factories/MacOSFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factories/WindowsFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +142,7 @@
       <workItem from="1709575661999" duration="72000" />
       <workItem from="1709575745021" duration="4000" />
       <workItem from="1709575796308" duration="199000" />
-      <workItem from="1709576020281" duration="311000" />
+      <workItem from="1709576020281" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="maven create">
       <option name="closed" value="true" />
@@ -212,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709574958215</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tests">
+      <option name="closed" value="true" />
+      <created>1709576480544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709576480544</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +222,7 @@
     <MESSAGE value="app create" />
     <MESSAGE value="demo create" />
     <MESSAGE value="finishing" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing" />
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
   </component>
 </project>

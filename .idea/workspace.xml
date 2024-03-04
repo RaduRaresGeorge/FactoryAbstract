@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="finishing">
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/app/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/buttons/MacOSButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/buttons/WindowsButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/CheckBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/MacOSCheckBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkboxes/WindowsCheckBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factories/GUIFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factories/MacOSFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factories/WindowsFactoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +51,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -54,7 +67,17 @@
   "keyToString": {
     "Application.Demo.executor": "Run",
     "JUnit.All in FactoryAbstract.executor": "Run",
+    "JUnit.ApplicationTest.executor": "Run",
     "JUnit.ButtonTest.executor": "Run",
+    "JUnit.CheckBoxTest.executor": "Run",
+    "JUnit.DemoTest.executor": "Run",
+    "JUnit.GUIFactoryTest.executor": "Run",
+    "JUnit.MacOSButtonTest.executor": "Run",
+    "JUnit.MacOSCheckBoxTest.executor": "Run",
+    "JUnit.MacOSFactoryTest.executor": "Run",
+    "JUnit.WindowsButtonTest.executor": "Run",
+    "JUnit.WindowsCheckBoxTest.executor": "Run",
+    "JUnit.WindowsFactoryTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,6 +94,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "profiler.jvm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -80,6 +104,10 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="app" />
+      <recent name="factories" />
+      <recent name="checkboxes" />
       <recent name="buttons" />
     </key>
   </component>
@@ -126,6 +154,7 @@
       <workItem from="1709575661999" duration="72000" />
       <workItem from="1709575745021" duration="4000" />
       <workItem from="1709575796308" duration="199000" />
+      <workItem from="1709576020281" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="maven create">
       <option name="closed" value="true" />

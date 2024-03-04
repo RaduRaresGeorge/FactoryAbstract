@@ -9,8 +9,8 @@ import factories.GUIFactory;
  * factories and products through abstract interfaces.
  */
 public class Application {
-    private Button button;
-    private CheckBox checkbox;
+    private final Button button;
+    private final CheckBox checkbox;
 
     public Application(GUIFactory factory) {
         button = factory.createButton();

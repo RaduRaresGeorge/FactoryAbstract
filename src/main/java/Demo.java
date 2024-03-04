@@ -3,8 +3,6 @@ import factories.MacOSFactory;
 import factories.WindowsFactory;
 import app.Application;
 
-
-
 /**
  * Demo class. Everything comes together here.
  */

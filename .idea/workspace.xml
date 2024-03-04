@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="finishing">
-      <change afterPath="$PROJECT_DIR$/src/test/java/buttons/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RaduRaresGeorge&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="734c9208-e9e1-4235-b03f-9f0b164b5c62" />
+        <option name="url" value="https://github.com/RaduRaresGeorge/FactoryAbstract.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +113,8 @@
       <updated>1709573875387</updated>
       <workItem from="1709573876649" duration="1263000" />
       <workItem from="1709575151431" duration="34000" />
+      <workItem from="1709575661999" duration="72000" />
+      <workItem from="1709575745021" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="maven create">
       <option name="closed" value="true" />

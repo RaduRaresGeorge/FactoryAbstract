@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="tests" />
+    <list default="true" id="5773ba4d-5c00-4bb9-be61-ccb2afd59b47" name="Changes" comment="tests">
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -73,7 +79,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/rares/Documents/GitHub/FactoryAbstract",
+    "last_opened_file_path": "C:/Users/raduu/Documents/GitHub/AbstractFactory/Buttons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +89,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "profiler.jvm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -99,16 +105,16 @@
       <recent name="buttons" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in FactoryAbstract">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="FactoryAbstract" />
+      <module name="AbstractFactory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="All in FactoryAbstract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FactoryAbstract" />
+      <module name="AbstractFactory" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -117,15 +123,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in FactoryAbstract" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.All in FactoryAbstract" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-a81d5c7c" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -143,6 +149,8 @@
       <workItem from="1709575745021" duration="4000" />
       <workItem from="1709575796308" duration="199000" />
       <workItem from="1709576020281" duration="470000" />
+      <workItem from="1710034296669" duration="1720000" />
+      <workItem from="1710068757768" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="maven create">
       <option name="closed" value="true" />
